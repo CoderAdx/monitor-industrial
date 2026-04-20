@@ -32,4 +32,4 @@ ESP32 + DHT22
 
 ## Autor
 
-Ádrya Giuly — [LinkedIn](https://linkedin.com/in/adryagiuly)
+Ádrya Giuly — [LinkedIn](https://linkedin.com/in/adryagiulyy)
